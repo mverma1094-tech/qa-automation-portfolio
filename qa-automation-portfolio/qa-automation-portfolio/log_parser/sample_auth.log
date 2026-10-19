@@ -1,0 +1,17 @@
+Oct 18 08:01:12 web01 sshd[2101]: Accepted password for admin from 10.0.0.5 port 51022 ssh2
+Oct 18 08:15:40 web01 sshd[2140]: Failed password for root from 203.0.113.45 port 40211 ssh2
+Oct 18 08:15:42 web01 sshd[2140]: Failed password for root from 203.0.113.45 port 40212 ssh2
+Oct 18 08:15:44 web01 sshd[2140]: Failed password for root from 203.0.113.45 port 40213 ssh2
+Oct 18 08:15:46 web01 sshd[2140]: Failed password for root from 203.0.113.45 port 40214 ssh2
+Oct 18 08:15:48 web01 sshd[2140]: Failed password for root from 203.0.113.45 port 40215 ssh2
+Oct 18 08:15:50 web01 sshd[2140]: Failed password for invalid user test from 203.0.113.45 port 40216 ssh2
+Oct 18 09:02:05 web01 sshd[2210]: Failed password for jsmith from 10.0.0.22 port 52110 ssh2
+Oct 18 09:02:20 web01 sshd[2210]: Accepted password for jsmith from 10.0.0.22 port 52111 ssh2
+Oct 18 10:30:01 web01 CRON[2301]: pam_unix(cron:session): session opened for user root
+Oct 18 11:45:10 web01 sshd[2405]: Failed password for invalid user oracle from 198.51.100.7 port 33001 ssh2
+Oct 18 11:45:12 web01 sshd[2405]: Failed password for invalid user postgres from 198.51.100.7 port 33002 ssh2
+Oct 18 11:45:14 web01 sshd[2405]: Failed password for invalid user guest from 198.51.100.7 port 33003 ssh2
+Oct 18 11:45:16 web01 sshd[2405]: Failed password for invalid user ubuntu from 198.51.100.7 port 33004 ssh2
+Oct 18 11:45:18 web01 sshd[2405]: Failed password for invalid user admin1 from 198.51.100.7 port 33005 ssh2
+Oct 18 13:20:33 web01 sshd[2550]: Accepted password for admin from 203.0.113.45 port 40300 ssh2
+Oct 18 14:05:00 web01 sudo: jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt update
